@@ -1,0 +1,539 @@
+@media(max-width:788px)
+{
+    .searchblock{
+        display:none;
+    }
+    .login{
+        display: none;
+    }
+    .material-people{
+        display: none;
+    }
+    .awesome-shopping-cart{
+        display: none;
+    }
+    .material-chat{
+        display: none;
+    }
+    ul{
+        display:none;
+    }
+    .TOPimage{
+        display: none;
+    }
+    .title1{
+        display: none;
+    }
+    .title2{
+        display: none;
+    }
+    .burger{
+        display:flex;
+    }
+    header{
+        width:768px;
+        height:83px;
+        background-color: #E6E9FF;
+    }
+    .awesome-search{
+        width:37.17px;
+        height:38.01px;
+        margin:22px 0 0 -257.8px;
+    }
+    .awesome-servicestack{
+        width:42.82px;
+        height:33.15px;
+        margin:19.3px 0 0 241.5px;
+    }
+    .waterly{
+        display:flex;
+        margin:25px 0 0 226.3px;
+        color: #4559BC;
+
+    }
+    .pad-people{
+        display: flex;
+        margin:25px 0 0 58.5px;
+    }
+    .pad-shopping{
+        display: flex;
+        margin:19.9px 0 0 29px;
+    }
+    .pad-chat{
+        display: flex;
+        margin:19.2px 0 0 30.2px;
+    }
+    .pad-TOP{
+        display: flex;
+    }
+    .pad-title1{
+        display: flex;
+        margin:40px 0 0 54px;
+    }
+    h2{
+        margin:0;
+    }
+    .product1{
+        margin:15px 0 0 54px;
+        width:205px;
+        height:314px;
+    }
+    .img1{
+        width:173px;
+        height:172px;
+        padding:16px 0 0 16px;
+    }
+    .name1{
+        font-size: 23px;
+        margin:0 0 0 82px;
+    }
+    .NT1{
+        font-size:23px;
+        margin:17px 0 0 28px;
+    }
+    .product2{
+        margin:15px 0 0 21px;
+        width:205px;
+        height:314px;
+    }
+    .img2{
+        width:173px;
+        height:172px;
+        padding:16px 0 0 16px;
+    }
+    .name2{
+        font-size: 23px;
+        margin:0 0 0 82px;
+    }
+    .NT2{
+        font-size:23px;
+        margin:17px 0 0 28px;
+    }
+    .product3{
+        margin:15px 0 0 21px;
+        width:205px;
+        height:314px;
+    }
+    .img3{
+        width:173px;
+        height:172px;
+        padding:16px 0 0 16px;
+    }
+    .name3{
+        font-size: 23px;
+        margin:0 0 0 82px;
+    }
+    .NT3{
+        font-size:23px;
+        margin:17px 0 0 28px;
+    }
+    .pad-title2{
+        display: flex;
+    }
+    h3{
+        margin:0;
+    }
+    .product5{
+        margin:15px 0 0 54px;
+        width:205px;
+        height:314px;
+    }
+    .img5{
+        width:173px;
+        height:172px;
+        padding:16px 0 0 16px;
+    }
+    .name5{
+        font-size: 23px;
+        margin:0 0 0 82px;
+    }
+    .NT5{
+        font-size:23px;
+        margin:17px 0 0 28px;
+    }
+    .product6{
+        margin:15px 0 0 21px;
+        width:205px;
+        height:314px;
+    }
+    .img6{
+        width:173px;
+        height:172px;
+        padding:16px 0 0 16px;
+    }
+    .name6{
+        font-size: 23px;
+        margin:0 0 0 82px;
+    }
+    .NT6{
+        font-size:23px;
+        margin:17px 0 0 28px;
+    }
+    .product7{
+        margin:15px 0 0 21px;
+        width:205px;
+        height:314px;
+    }
+    .img7{
+        width:173px;
+        height:172px;
+        padding:16px 0 0 16px;
+    }
+    .name7{
+        font-size: 23px;
+        margin:0 0 0 82px;
+    }
+    .NT7{
+        font-size:23px;
+        margin:17px 0 0 28px;
+    }
+    .pad{
+        display: flex;
+        margin:0;
+    }
+    .product9{
+        color:#4559BC;
+        background-color: #EAECFF;
+        border-radius: 25px;
+        margin:22px 0 0 54px;
+        width:205px;
+        height:314px;
+    }
+    .img9{
+        width:173px;
+        height:172px;
+        padding:16px 0 0 16px;
+    }
+    .name9{
+       
+        font-size: 23px;
+        margin:0 0 0 82px;
+    }
+    .NT9{
+        font-size:23px;
+        margin:17px 0 0 28px;
+    }
+    .product10{
+        color:#4559BC;
+        background-color: #EAECFF;
+        border-radius: 25px;
+        margin:22px 0 0 21px;
+        width:205px;
+        height:314px;
+    }
+    .img10{
+        width:173px;
+        height:172px;
+        padding:16px 0 0 16px;
+    }
+    .name10{
+        font-size: 23px;
+        margin:0 0 0 82px;
+    }
+    .NT10{
+        font-size:23px;
+        margin:17px 0 0 28px;
+    }
+    .product11{
+        color:#4559BC;
+        background-color: #EAECFF;
+        border-radius: 25px;
+        margin:22px 0 0 21px;
+        width:205px;
+        height:314px;
+    }
+    .img11{
+        width:173px;
+        height:172px;
+        padding:16px 0 0 16px;
+    }
+    .name11{
+        display: flex;
+        font-size: 23px;
+        margin:0 0 0 82px;
+    }
+    .NT11{
+        font-size:23px;
+        margin:17px 0 0 28px;
+    }
+    h4{
+        display: flex;
+        margin:0;
+    }
+    .TOPbuttom{
+        width:31.29px;
+        height:31.29px;
+        margin:15.9px 0 7.8px 695px;
+    }
+    .TOP{
+        font-size: 19px;
+        font-family: Mishafi;
+        color:#47BC9D;
+        margin:16px 0 13px 3.7px;
+    }
+    .info1{
+        display:none;
+    }
+    .info2{
+        display:none;
+    }
+    .info3{
+        display:none;
+    }
+    .information{
+        width:768px;
+        height:108px;
+        border-width: 0;
+        margin:0;
+    }
+    .footer-img{
+        height:108px;
+    }
+    .fimg1{
+        width:35.61px;
+        height:35.39px;
+        margin:36.6px 0 0 559.5px;
+    }
+    .fimg2{
+        width:35.72px;
+        height:35.71px;
+        margin:36.6px 0 0 12.2px;
+    }
+    .fimg3{
+        width:35.01px;
+        height:35.58px;
+        margin:35.4px 0 0 13px;
+    }
+    .fimg4{
+        width:44.37px;
+        height:36.03px;
+        margin:35.4px 0 0 13.6px;
+    }
+}
+@media(max-width:320px)
+{
+    .awesome-search{
+        width:6vw;
+        height:5.8vw;
+        margin:4vw 0 0 -257.8px;
+    }
+    .awesome-servicestack{
+        width:5.8vw;
+        height:5vw;
+        margin:3.6vw 0 0 241.5px;
+    }
+    .waterly{
+        font-size: 4.3vw;
+        margin:25px 0 0 226.3px;
+    }
+    .pad-people{
+        margin:25px 0 0 58.5px;
+    }
+    .pad-shopping{
+        margin:19.9px 0 0 29px;
+    }
+    .pad-chat{
+        margin:19.2px 0 0 30.2px;
+    }
+    .pad-title1{
+        margin:40px 0 0 54px;
+    }
+    .product1{
+        margin:15px 0 0 54px;
+        width:205px;
+        height:314px;
+    }
+    .img1{
+        width:173px;
+        height:172px;
+        padding:16px 0 0 16px;
+    }
+    .name1{
+        font-size: 23px;
+        margin:0 0 0 82px;
+    }
+    .NT1{
+        font-size:23px;
+        margin:17px 0 0 28px;
+    }
+    .product2{
+        margin:15px 0 0 21px;
+        width:205px;
+        height:314px;
+    }
+    .img2{
+        width:173px;
+        height:172px;
+        padding:16px 0 0 16px;
+    }
+    .name2{
+        font-size: 23px;
+        margin:0 0 0 82px;
+    }
+    .NT2{
+        font-size:23px;
+        margin:17px 0 0 28px;
+    }
+    .product3{
+        margin:15px 0 0 21px;
+        width:205px;
+        height:314px;
+    }
+    .img3{
+        width:173px;
+        height:172px;
+        padding:16px 0 0 16px;
+    }
+    .name3{
+        font-size: 23px;
+        margin:0 0 0 82px;
+    }
+    .NT3{
+        font-size:23px;
+        margin:17px 0 0 28px;
+    }
+    .product5{
+        margin:15px 0 0 54px;
+        width:205px;
+        height:314px;
+    }
+    .img5{
+        width:173px;
+        height:172px;
+        padding:16px 0 0 16px;
+    }
+    .name5{
+        font-size: 23px;
+        margin:0 0 0 82px;
+    }
+    .NT5{
+        font-size:23px;
+        margin:17px 0 0 28px;
+    }
+    .product6{
+        margin:15px 0 0 21px;
+        width:205px;
+        height:314px;
+    }
+    .img6{
+        width:173px;
+        height:172px;
+        padding:16px 0 0 16px;
+    }
+    .name6{
+        font-size: 23px;
+        margin:0 0 0 82px;
+    }
+    .NT6{
+        font-size:23px;
+        margin:17px 0 0 28px;
+    }
+    .product7{
+        margin:15px 0 0 21px;
+        width:205px;
+        height:314px;
+    }
+    .img7{
+        width:173px;
+        height:172px;
+        padding:16px 0 0 16px;
+    }
+    .name7{
+        font-size: 23px;
+        margin:0 0 0 82px;
+    }
+    .NT7{
+        font-size:23px;
+        margin:17px 0 0 28px;
+    }
+    .product9{
+        margin:22px 0 0 54px;
+        width:205px;
+        height:314px;
+    }
+    .img9{
+        width:173px;
+        height:172px;
+        padding:16px 0 0 16px;
+    }
+    .name9{
+        font-size: 23px;
+        margin:0 0 0 82px;
+    }
+    .NT9{
+        font-size:23px;
+        margin:17px 0 0 28px;
+    }
+    .product10{
+        margin:22px 0 0 21px;
+        width:205px;
+        height:314px;
+    }
+    .img10{
+        width:173px;
+        height:172px;
+        padding:16px 0 0 16px;
+    }
+    .name10{
+        font-size: 23px;
+        margin:0 0 0 82px;
+    }
+    .NT10{
+        font-size:23px;
+        margin:17px 0 0 28px;
+    }
+    .product11{
+        margin:22px 0 0 21px;
+        width:205px;
+        height:314px;
+    }
+    .img11{
+        width:173px;
+        height:172px;
+        padding:16px 0 0 16px;
+    }
+    .name11{
+        font-size: 23px;
+        margin:0 0 0 82px;
+    }
+    .NT11{
+        font-size:23px;
+        margin:17px 0 0 28px;
+    }
+    .TOPbuttom{
+        width:31.29px;
+        height:31.29px;
+        margin:15.9px 0 7.8px 695px;
+    }
+    .TOP{
+        font-size: 19px;
+        margin:16px 0 13px 3.7px;
+    }
+    .information{
+        width:768px;
+        height:108px;
+    }
+    .footer-img{
+        height:108px;
+    }
+    .fimg1{
+        width:35.61px;
+        height:35.39px;
+        margin:36.6px 0 0 559.5px;
+    }
+    .fimg2{
+        width:35.72px;
+        height:35.71px;
+        margin:36.6px 0 0 12.2px;
+    }
+    .fimg3{
+        width:35.01px;
+        height:35.58px;
+        margin:35.4px 0 0 13px;
+    }
+    .fimg4{
+        width:44.37px;
+        height:36.03px;
+        margin:35.4px 0 0 13.6px;
+    }
+}

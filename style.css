@@ -1,0 +1,1301 @@
+body{
+    width:1920px;
+    height:1280px;
+    margin:0;
+}
+header{
+    display: flex;
+    height:153px;
+}
+.burger{
+    display:none;
+    width: 42px;
+    height:37px;
+    margin:23px 0 0 20px;
+}
+.waterly{
+    display: none;
+    font-size: 25px;
+    font-family: Lao MN;
+}
+.pad-people{
+    display: none;
+    width:41.28px;
+    height:26.27px;
+}
+.pad-shopping{
+    display: none;
+    width:41.89px;
+    height:37.24px;
+}
+.pad-chat{
+    display: none;
+    width:43.79px;
+    height:43.79px;
+}
+.pad-TOP{
+    display:none;
+    width:691px;
+    height:291px;
+    margin:20px 0 0 39px;
+}
+.awesome-servicestack{
+    width:70px;
+    height:54px;
+    margin-left:139px;
+    margin-top:53px;
+}
+.awesome-search{
+    width:67px;
+    height:68.5px;
+    margin-left:176px;
+    margin-top:41.5px;
+}
+.searchblock{
+    width:811px;
+    height:70px;
+    border-width: 1px;
+    border-radius: 35px;
+    border-color: #707070;
+    background-color: #E7E9FF;
+    margin-left:10px;
+    margin-top:42px;
+    
+}
+.login{
+    line-height: 78px;
+    margin-top:29px;
+    margin-left:86px;
+    font-size: 58px;
+    font-family:Luminari;
+    color:#4559BC;
+}
+.material-people{
+    margin-top:54.9px;
+    margin-left:49.6px;
+}
+.awesome-shopping-cart{
+    margin-top:47.9px;
+    margin-left:39.8px;
+}
+.material-chat{
+    margin-top:46.9px;
+    margin-left:41.5px;
+}
+ul{
+    display:flex;
+    width:1920px;
+    height:140px;
+    background-color:#CED6FF;
+    margin-top:41px;
+    padding:0px;
+}
+ul li{
+   display:flex;
+   font-size: 65px;
+   font-family: Luminari;
+   color:#87555C;
+   
+}
+.Home{
+    width:276px;
+    height:81px;
+    background-color:#E0D4F7;
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #707070;
+    margin:30px 0 0 23px;
+    padding-left:17px;
+    padding-top: 0;
+}
+.Bags{
+    width:276px;
+    height:81px;
+    background-color:#E0D4F7;
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #707070;
+    margin:30px 0 0 20px;
+    padding-left:17px;
+    padding-top: 0;
+}
+.Shoes{
+    width:276px;
+    height:81px;
+    background-color:#E0D4F7;
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #707070;
+    margin:30px 0 0 20px;
+    padding-left:17px;
+    padding-top: 0;
+}
+.Sweaters{
+    width:276px;
+    height:81px;
+    background-color:#E0D4F7;
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #707070;
+    margin:30px 0 0 20px;
+    padding-left:17px;
+    padding-top: 0;
+}
+.Case{
+    width:276px;
+    height:81px;
+    background-color:#E0D4F7;
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #707070;
+    margin:30px 0 0 20px;
+    padding-left:17px;
+    padding-top: 0;
+}
+.More{
+    width:276px;
+    height:81px;
+    background-color:#E0D4F7;
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #707070;
+    margin:30px 0 0 20px;
+    padding-left:17px;
+    padding-top: 0;
+}
+.TOPimage{
+    width:1841px;
+    height:477px;
+    margin:88px 0 0 40px;
+}
+.phone-TOP{
+    display:none;
+}
+h2{
+    display:flex;
+}
+.pad-title1{
+    display: none;
+    font-size: 42px;
+    font-family: Lao MN;
+    color:#500712;
+}
+.title1{
+    margin-top: 47px;
+    font-size: 62px;
+    margin-left:66px;
+    margin-bottom:31px;
+    font-family: Lao MN;
+    color:#500712;
+}
+.product1{
+    width:379px;
+    height:468px;
+    font-size: 40px;
+    color:#4559BC;
+    background-color: #EAECFF;
+    border-radius: 25px;
+    margin:0 0 0 63px;
+}
+.img1{
+    padding:28px 28px 0 28px;
+}
+.name1{
+    margin:5px 0 0 142px; 
+}
+.NT1{
+    margin:14px 0 0 20px; 
+}
+.product2{
+    width:379px;
+    height:468px;
+    font-size: 40px;
+    color:#4559BC;
+    background-color: #EAECFF;
+    border-radius: 25px;
+    margin:0 0 0 89px;
+}
+.img2{
+    padding:28px 28px 0 28px;
+}
+.name2{
+    margin:5px 0 0 142px; 
+}
+.NT2{
+    margin:14px 0 0 20px; 
+}
+.product3{
+    width:379px;
+    height:468px;
+    font-size: 40px;
+    color:#4559BC;
+    background-color: #EAECFF;
+    border-radius: 25px;
+    margin:0 0 0 89px;
+}
+.img3{
+    padding:28px 28px 0 28px;
+}
+.name3{
+    margin:5px 0 0 142px; 
+}
+.NT3{
+    margin:14px 0 0 20px; 
+}
+.product4{
+    width:379px;
+    height:468px;
+    font-size: 40px;
+    color:#4559BC;
+    background-color: #EAECFF;
+    border-radius: 25px;
+    margin:0 0 0 89px;
+}
+.img4{
+    padding:28px 28px 0 28px;
+}
+.name4{
+    margin:5px 0 0 142px; 
+}
+.NT4{
+    margin:14px 0 0 20px; 
+}
+h3{
+    display:flex;
+}
+.title2{
+    font-size: 62px;
+    font-family: Lao MN;
+    color:#500712;
+    margin:11px 0 0 66px;
+}
+.pad-title2{
+    display: none;
+    font-size: 40px;
+    font-family: Lao MN;
+    color:#500712;
+    margin:27px 0 0 54px;
+}
+.product5{
+    width:379px;
+    height:468px;
+    font-size: 40px;
+    color:#4559BC;
+    background-color: #EAECFF;
+    border-radius: 25px;
+    margin:0 0 0 63px;
+}
+.img5{
+    padding:28px 28px 0 28px;
+}
+.name5{
+    margin:5px 0 0 142px; 
+}
+.NT5{
+    margin:14px 0 0 20px; 
+}
+.product6{
+    width:379px;
+    height:468px;
+    font-size: 40px;
+    color:#4559BC;
+    background-color: #EAECFF;
+    border-radius: 25px;
+    margin:0 0 0 89px;
+}
+.img6{
+    padding:28px 28px 0 28px;
+}
+.name6{
+    margin:5px 0 0 142px; 
+}
+.NT6{
+    margin:14px 0 0 20px; 
+}
+.product7{
+    width:379px;
+    height:468px;
+    font-size: 40px;
+    color:#4559BC;
+    background-color: #EAECFF;
+    border-radius: 25px;
+    margin:0 0 0 89px;
+}
+.img7{
+    padding:28px 28px 0 28px;
+}
+.name7{
+    margin:5px 0 0 142px; 
+}
+.NT7{
+    margin:14px 0 0 20px; 
+}
+.product8{
+    width:379px;
+    height:468px;
+    font-size: 40px;
+    color:#4559BC;
+    background-color: #EAECFF;
+    border-radius: 25px;
+    margin:0 0 0 89px;
+}
+.img8{
+    padding:28px 28px 0 28px;
+}
+.name8{
+    margin:5px 0 0 142px; 
+}
+.NT8{
+    margin:14px 0 0 20px; 
+}
+.pad{
+    display: none;
+}
+h4{
+    display: none;
+}
+
+.information{
+    display:flex;
+    height:218.16px;
+    margin:124.8px 0 0 0;
+    width:1920px;
+    height:218.16px;
+    background-color: #E6E9FF;
+    border-color: #707070;
+    border-style: solid;
+    border-width: 1px;
+    padding:0;
+}
+.info1{ 
+    width:174px;
+    height:59px;
+    font-size: 44px;
+    font-family: Luminari;
+    margin:36.2px 0 0 82px;
+    color:#77475C;
+    letter-spacing: 2px;
+}
+.info2{
+    width:187px;
+    height:59px;
+    font-size: 44px;
+    font-family: Luminari;
+    margin:36.2px 0 0 118px;
+    color:#77475C;
+    white-space:pre;
+    letter-spacing: 2px;
+}
+.info3{
+    width:186px;
+    height:59px;
+    font-size: 44px;
+    font-family: Luminari;
+    margin:36.2px 0 0 102px;
+    color:#77475C;
+    letter-spacing: 2px;
+}
+.footer-img{ 
+    width:1920px;
+    height:218.16px;
+    display:flex;
+}
+.fimg1{
+    width:60.3px;
+    height:60px;
+    margin:122.2px 0 0 710.4px;
+}
+.fimg2{
+    width:60.5px;
+    height:60.5px;
+    margin:122.2px 0 0 25.7px;
+}
+.fimg3{
+    width:59.3px;
+    height:60px;
+    margin:122.2px 0 0 25.3px;
+}
+.fimg4{
+    width:75px;
+    height:61px;
+    margin:122.2px 0 0 24.7px;
+ 
+}
+.fimg5{
+    display: none;;
+}
+@media (max-width: 1920px){
+    header{
+        width:100vw;
+        height:153px;
+    }
+    .awesome-servicestack{
+        width:69.96px;
+        height:54.16px;
+        margin:53px 0 0 139px;
+    }
+    .awesome-search{
+        width:66.99px;
+        height:68.5px;
+        margin:41.5px 0 0 176px;
+    }
+    .searchblock{
+        margin:42px 0 0 10px;
+    }
+    .login{
+        margin:29px 0 0 86px;
+    }
+    .material-people{
+        width:56.66px;
+        height:36.06px;
+        margin:54.9px 0 0 41.6px;
+    }
+    .awesome-shopping-cart{
+        width:57.5px;
+        height:51.11px;
+        margin:47.9px 0 0 39.8px;
+    }
+    .material-chat{
+        width:60.11px;
+        height:60.11px;
+        margin:46.9px 0 0 41.5px;
+    }
+    ul{
+        width:1920px;
+        height:140px;
+    }
+    .Home{
+        margin:30px 0 0 23px;
+    }
+    .Bags{
+        margin:30px 0 0 23px;
+    }
+    .Shoes{
+        margin:30px 0 0 23px;
+    }
+    .Sweaters{
+        margin:30px 0 0 23px;
+    }
+    .Case{
+        margin:30px 0 0 23px;
+    }
+    .More{
+        margin:30px 0 0 23px;
+    }
+    .TOPimage{
+        width:1841px;
+        height:477px;
+        margin:88px 0 0 40px;
+    }
+    .title1{
+        width:100vw;
+        font-size: 62px;
+    }
+    .product1{
+        width:379px;
+    }
+    .img1{
+        width:323px;
+        height:299px;
+    }
+    .name1{
+       font-size: 40px;
+    }
+    .NT1{
+        font-size: 40px;
+    }
+    .product2{
+        width:379px;
+    }
+    .img2{
+        width:323px;
+        height:299px;
+    }
+    .name2{
+       font-size: 40px;
+    }
+    .NT2{
+        font-size: 40px;
+    }
+    .product3{
+        width:379px;
+    }
+    .img3{
+        width:323px;
+        height:299px;
+    }
+    .name3{
+       font-size: 40px;
+    }
+    .NT3{
+        font-size: 40px;
+    }
+    .product4{
+        width:379px;
+    }
+    .img4{
+        width:323px;
+        height:299px;
+    }
+    .name4{
+       font-size: 40px;
+    }
+    .NT4{
+        font-size: 40px;
+    }
+    .title2{
+        width:100vw;
+        font-size: 62px;
+    }
+    .product5{
+        width:379px;
+    }
+    .img5{
+        width:323px;
+        height:299px;
+    }
+    .name5{
+       font-size: 40px;
+    }
+    .NT5{
+        font-size: 40px;
+    }
+    .product6{
+        width:379px;
+    }
+    .img6{
+        width:323px;
+        height:299px;
+    }
+    .name6{
+       font-size: 40px;
+    }
+    .NT6{
+        font-size: 40px;
+    }
+    .product7{
+        width:379px;
+    }
+    .img7{
+        width:323px;
+        height:299px;
+    }
+    .name7{
+       font-size: 40px;
+    }
+    .NT7{
+        font-size: 40px;
+    }
+    .product8{
+        width:379px;
+    }
+    .img8{
+        width:323px;
+        height:299px;
+    }
+    .name8{
+       font-size: 40px;
+    }
+    .NT8{
+        font-size: 40px;
+    }
+    .information{
+        width:100vw;
+        height:218.16px;
+        margin:124.8px 0 0 0;
+    }
+    
+}
+@media (max-width: 1918px){
+    ul{
+        width:99vw;
+        height:6.4vw;
+    }
+    .Home{
+        margin:20px 0 0 18px;
+        font-size: 4vw;
+    }
+    .Bags{
+        margin:20px 0 0 18px;
+        font-size: 4vw;
+    }
+    .Shoes{
+        margin:20px 0 0 18px;
+        font-size: 4vw;
+    }
+    .Sweaters{
+        margin:20px 0 0 18px;
+        font-size: 4vw;
+    }
+    .Case{
+        margin:20px 0 0 18px;
+        font-size: 4vw;
+    }
+    .More{
+        margin:20px 0 0 18px;
+        font-size: 4vw;
+    }
+    .information{
+        width:99vw;
+        height:11vw;
+        margin:6.5vw 0 0 0;
+    }
+    
+}
+@media (max-width: 1870px){
+    header{
+        width:95vw;
+        height:8.5vw;
+    }
+    .awesome-servicestack{
+        width:4vw;
+        height:3vw;
+        margin:3vw 0 0 8vw;
+    }
+    .awesome-search{
+        width:4vw;
+        height:3vw;
+        margin:2.5vw 0 0 10.6vw;
+    }
+    .searchblock{
+        margin:2.66vw 0 0 0.5vw;
+    }
+    .login{
+        font-size: 3vw;
+        margin:1.94vw 0 0 5.15vw;
+    }
+    .material-people{
+        width:4vw;
+        height:2.5vw;
+        margin:3.6vw 0 0 2.15vw;
+    }
+    .awesome-shopping-cart{
+        width:4vw;
+        height:3vw;
+        margin:3vw 0 0 2vw;
+    }
+    .material-chat{
+        width:4vw;
+        height:4vw;
+        margin:3vw 0 0 2.15vw;
+    }
+    ul{
+        width:99vw;
+        height:90px;
+        margin-top: 3vw;
+    }
+    .Home{
+        height:60px;
+        font-size: 3.3vw;
+        margin:11.5px 0 0 18px;
+        padding:5px 0 0 8px;
+    }
+    .Bags{
+        height:60px;
+        margin:11.5px 0 0 18px;
+        font-size: 3.3vw;
+        padding:5px 0 0 8px;
+    }
+    .Shoes{
+        height:60px;
+        margin:11.5px 0 0 18px;
+        font-size: 3.3vw;
+        padding:5px 0 0 8px;
+    }
+    .Sweaters{
+        height:60px;
+        margin:11.5px 0 0 18px;
+        font-size: 3.3vw;
+        padding:5px 0 0 8px;
+    }
+    .Case{
+        height:60px;
+        margin:11.5px 0 0 18px;
+        font-size: 3.3vw;
+        padding:5px 0 0 8px;
+    }
+    .More{
+        height:60px;
+        margin:11.5px 0 0 18px;
+        font-size: 3.3vw;
+        padding:5px 0 0 8px;
+    }
+    .TOPimage{
+        width:95vw;
+        height:25vw;
+        margin:5vw 0 0 2.5vw;
+    }
+    .title1{
+        width:90vw;
+        margin:2.6vw 0 1.5vw 4vw; 
+        font-size: 53px;
+    }  
+    .product1{
+        width:20.5vw;
+        height:25vw;
+        margin-left: 3vw;
+    }
+    .img1{
+        width:16.8vw;
+        height:16.6vw;
+    }
+    .name1{
+        font-size: 2vw;
+        margin-left: 8vw;
+    }
+    .NT1{
+        font-size: 2.2vw;
+        margin-top: 0.2vw;
+    }
+    .product2{
+        width:20.5vw;
+        height:25vw;
+        margin-left: 3vw;
+    }
+    .img2{
+        width:16.8vw;
+        height:16.6vw;
+    }
+    .name2{
+        font-size: 2vw;
+        margin-left: 8vw;
+    }
+    .NT2{
+        font-size: 2.2vw;
+        margin-top: 0.2vw;
+    }
+    .product3{
+        width:20.5vw;
+        height:25vw;
+        margin-left: 3vw;
+    }
+    .img3{
+        width:16.8vw;
+        height:16.6vw;
+    }
+    .name3{
+        font-size: 2vw;
+        margin-left: 8vw;
+    }
+    .NT3{
+        font-size: 2.2vw;
+        margin-top: 0.2vw;
+    }
+    .product4{
+        width:20.5vw;
+        height:25vw;
+        margin-left: 3vw;
+    }
+    .img4{
+        width:16.8vw;
+        height:16.6vw;
+    }
+    .name4{
+        font-size: 2vw;
+        margin-left: 8vw;
+    }
+    .NT4{
+        font-size: 2.2vw;
+        margin-top: 0.2vw;
+    }
+    .title2{
+        width:90vw;
+        margin:2.6vw 0 1.5vw 4vw; 
+        font-size: 53px;
+    }
+    .product5{
+        width:20.5vw;
+        height:25vw;
+        margin-left: 3vw;
+    }
+    .img5{
+        width:16.8vw;
+        height:16.6vw;
+    }
+    .name5{
+        font-size: 2vw;
+        margin-left: 8vw;
+    }
+    .NT5{
+        font-size: 2.2vw;
+        margin-top: 0.2vw;
+    }
+    .product6{
+        width:20.5vw;
+        height:25vw;
+        margin-left: 3vw;
+    }
+    .img6{
+        width:16.8vw;
+        height:16.6vw;
+    }
+    .name6{
+        font-size: 2vw;
+        margin-left: 8vw;
+    }
+    .NT6{
+        font-size: 2.2vw;
+        margin-top: 0.2vw;
+    }
+    .product7{
+        width:20.5vw;
+        height:25vw;
+        margin-left: 3vw;
+    }
+    .img7{
+        width:16.8vw;
+        height:16.6vw;
+    }
+    .name7{
+        font-size: 2vw;
+        margin-left: 8vw;
+    }
+    .NT7{
+        font-size: 2.2vw;
+        margin-top: 0.2vw;
+    }
+    .product8{
+        width:20.5vw;
+        height:25vw;
+        margin-left: 3vw;
+    }
+    .img8{
+        width:16.8vw;
+        height:16.6vw;
+    }
+    .name8{
+        font-size: 2vw;
+        margin-left: 8vw;
+    }
+    .NT8{
+        font-size: 2.2vw;
+        margin-top: 0.2vw;
+    }
+    h3{
+        width:90%;
+    }
+    .info1{
+        font-size: 2.3vw;
+        margin:1.8vw 0 0 4vw;
+
+    }
+    .info2{
+        font-size: 2.3vw;
+        margin:1.8vw 0 0 4vw;
+    }
+    .info3{
+        font-size: 2.3vw;
+        margin:1.8vw 0 0 4vw;
+
+    }
+    .fimg1{
+        width:3.4vw;
+        height:3.4vw;
+        margin:7.3vw 0 0 38vw;
+    }
+    .fimg2{
+        width:3.4vw;
+        height:3.4vw;
+        margin:7.3vw 0 0 1.53vw;
+    }
+    .fimg3{
+        width:3.4vw;
+        height:3.4vw;
+        margin:7.3vw 0 0 1.51vw;
+    }
+    .fimg4{
+        width:3.4vw;
+        height:3.4vw;
+        margin:7.3vw 0 0 1.53vw;
+    }
+}
+@media (max-width:1218px){
+    header{
+        width:96vw;
+    }
+    .TOPimage{
+        width:93vw;
+    }
+    .title1{
+        width:90vw;
+    }  
+    .title2{
+        width:90vw;
+    }
+    h3{
+        width:90%;
+    }
+    footer{
+        width:95%;
+    }
+}
+@media (max-width:1200px){
+    .product1{
+        width:250px;
+        height:288.56px;
+        margin:0 0 0 3vw;
+    }
+    .img1{
+        width:195.41px;
+        height:179.33px;
+    }
+    .name1{
+        font-size: 31px;
+        margin:0 0 0 95.14px;
+    }
+    .NT1{
+        font-size: 31px;
+        margin:0 0 0 25px;
+    }
+    .product2{
+        width:250px;
+        height:288.56px;
+        margin:0 0 0 3vw;
+    }
+    .img2{
+        width:195.41px;
+        height:179.33px;
+    }
+    .name2{
+        font-size: 31px;
+        margin:0 0 0 95.14px;
+    }
+    .NT2{
+        font-size: 31px;
+        margin:0px 0 0 25px;
+    }
+    .product3{
+        width:250px;
+        height:288.56px;
+        margin:0 0 0 3vw;
+    }
+    .img3{
+        width:195.41px;
+        height:179.33px;
+    }
+    .name3{
+        font-size: 31px;
+        margin:0 0 0 95.14px;
+    }
+    .NT3{
+        font-size: 31px;
+        margin:0px 0 0 25px;
+    }
+    .product4{
+        width:250px;
+        height:288.56px;
+        margin:0 0 0 3vw;
+    }
+    .img4{
+        width:195.41px;
+        height:179.33px;
+    }
+    .name4{
+        font-size: 31px;
+        margin:0 0 0 95.14px;
+    }
+    .NT4{
+        font-size: 31px;
+        margin:0px 0 0 25px;
+    }.product5{
+        width:250px;
+        height:288.56px;
+        margin:0 0 0 3vw;
+    }
+    .img5{
+        width:195.41px;
+        height:179.33px;
+    }
+    .name5{
+        font-size: 31px;
+        margin:0 0 0 95.14px;
+    }
+    .NT5{
+        font-size: 31px;
+        margin:0 0 0 25px;
+    }
+    .product6{
+        width:250px;
+        height:288.56px;
+        margin:0 0 0 3vw;
+    }
+    .img6{
+        width:195.41px;
+        height:179.33px;
+    }
+    .name6{
+        font-size: 31px;
+        margin:0 0 0 95.14px;
+    }
+    .NT6{
+        font-size: 31px;
+        margin:0px 0 0 25px;
+    }
+    .product7{
+        width:250px;
+        height:288.56px;
+        margin:0 0 0 3vw;
+    }
+    .img7{
+        width:195.41px;
+        height:179.33px;
+    }
+    .name7{
+        font-size: 31px;
+        margin:0 0 0 95.14px;
+    }
+    .NT7{
+        font-size: 31px;
+        margin:0px 0 0 25px;
+    }
+    .product8{
+        width:250px;
+        height:288.56px;
+        margin:0 0 0 3vw;
+    }
+    .img8{
+        width:195.41px;
+        height:179.33px;
+    }
+    .name8{
+        font-size: 31px;
+        margin:0 0 0 95.14px;
+    }
+    .NT8{
+        font-size: 31px;
+        margin:0px 0 0 25px;
+    }
+    .Home{
+        font-size: 4vw;
+    }
+    .Bags{
+        font-size: 4vw;
+    }
+    .Shoes{
+        font-size: 4vw;
+    }
+    .Sweaters{
+        font-size: 4vw;
+    }
+    .Case{
+        font-size: 4vw;
+    }
+    .More{
+        font-size: 4vw;
+    }
+}
+@media (max-width:1100px){
+    .awesome-search{
+        margin-top: 3vw;
+    }
+    .searchblock{
+        height:5vw;
+    }
+    .product4{
+        display:none;
+    }
+    .product1{
+        margin:0 0 0 3vw;
+    }
+    .product2{
+        margin:0 0 0 7vw;
+    }
+    .product3{
+        margin:0 0 0 7vw;
+    }
+    .product8{
+        display:none;
+    }
+    .product5{
+        margin:0 0 0 3vw;
+    }
+    .product6{
+        margin:0 0 0 7vw;
+    }
+    .product7{
+        margin:0 0 0 7vw;
+    }
+    .info1{
+        font-size: 25.3px;
+    }
+    .info2{
+        font-size: 25.3px;
+    }
+    .info3{
+        font-size: 25.3px;
+    }
+    .fimg1{
+        margin-top:6.8vw;
+        margin-left:33vw;
+    }
+    .fimg2{
+        margin-top:6.8vw;
+    }
+    .fimg3{
+        margin-top:6.8vw;
+    }
+    .fimg4{
+        margin-top:6.8vw;
+    }
+}
+@media (max-width:950px){
+    header{
+        width:97vw;
+        height:8vw;
+    }
+    .login{
+        margin-top: 8px;
+    }
+    .product2{
+        margin:0 0 0 5vw;
+    }
+    .product3{
+        margin:0 0 0 5vw;
+    }
+    .product6{
+        margin:0 0 0 5vw;
+    }
+    .product7{
+        margin:0 0 0 5vw;
+    }
+    .fimg1{
+        margin-left: 250px;
+    }
+}
+@media (max-width:883px){
+    .awesome-servicestack{
+        margin-left: 3vw;
+    }
+    .awesome-search{
+        margin-left: 5vw;
+        margin-top: 3.3vw;
+    }
+    .login{
+        margin-top: 0.36vw;
+    }
+    .searchblock{
+        height:4vw;
+    }
+    .product1{
+        width:240px;
+        height:278.56px;
+        margin:0 0 0 3vw;
+    }
+    .img1{
+        width:185.41px;
+        height:169.33px;
+    }
+    .name1{
+        font-size: 25px;
+        margin:0 0 0 95.14px;
+    }
+    .NT1{
+        font-size: 25px;
+        margin:0 0 0 25px;
+    }
+    .product2{
+        width:240px;
+        height:278.56px;
+        margin:0 0 0 3vw;
+    }
+    .img2{
+        width:185.41px;
+        height:169.33px;
+    }
+    .name2{
+        font-size: 25px;
+        margin:0 0 0 95.14px;
+    }
+    .NT2{
+        font-size: 25px;
+        margin:0px 0 0 25px;
+    }
+    .product3{
+        width:240px;
+        height:278.56px;
+        margin:0 0 0 3vw;
+    }
+    .img3{
+        width:185.41px;
+        height:169.33px;
+    }
+    .name3{
+        font-size: 25px;
+        margin:0 0 0 95.14px;
+    }
+    .NT3{
+        font-size: 25px;
+        margin:0px 0 0 25px;
+    }
+    .product5{
+        width:240px;
+        height:278.56px;
+        margin:0 0 0 3vw;
+    }
+    .img5{
+        width:185.41px;
+        height:169.33px;
+    }
+    .name5{
+        font-size: 25px;
+        margin:0 0 0 95.14px;
+    }
+    .NT5{
+        font-size: 25px;
+        margin:0 0 0 25px;
+    }
+    .product6{
+        width:240px;
+        height:278.56px;
+        margin:0 0 0 3vw;
+    }
+    .img6{
+        width:185.41px;
+        height:169.33px;
+    }
+    .name6{
+        font-size: 25px;
+        margin:0 0 0 95.14px;
+    }
+    .NT6{
+        font-size: 25px;
+        margin:0px 0 0 25px;
+    }
+    .product7{
+        width:240px;
+        height:278.56px;
+        margin:0 0 0 3vw;
+    }
+    .img7{
+        width:185.41px;
+        height:169.33px;
+    }
+    .name7{
+        font-size: 25px;
+        margin:0 0 0 95.14px;
+    }
+    .NT7{
+        font-size: 25px;
+        margin:0px 0 0 25px;
+    }
+    .fimg1{
+        margin-left: 185px;
+    }
+}
+@media(max-width:810px){
+    .awesome-servicestack{
+        margin-left: 2.3vw;
+    }
+    .awesome-search{
+        margin-left: 4vw;
+    }
+}
+
+
+

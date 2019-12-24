@@ -1,0 +1,212 @@
+@media(max-width:340px){
+    .burger{
+        width:27px;
+        height:21px;
+        margin:8px 0 0 11px;
+    }
+    header{
+        width:320px;
+        height:38px;
+        background-color: #E6E9FF;
+    }
+    .awesome-search{
+        width:17.61px;
+        height:18.01px;
+        margin:11px 0 0 155.2px;
+    }
+    .awesome-servicestack{
+        width:23.25px;
+        height:18px;
+        margin:9px 0 0 71px;
+    }
+    .waterly{
+        display:flex;
+        font-size: 15px;
+        margin:11px 0 0 -159px;
+        color: #4559BC;
+    }
+    .pad-people{
+        display: none;
+    }
+    .pad-shopping{
+        display: none;
+    }
+    .pad-chat{
+        display: none;
+    }
+    .pad-TOP{
+        display: none;
+    }
+    .product3{
+        display: none;
+    }
+    .product7{
+        display: none;
+    }
+    .product11{
+        display: none;
+    }
+    .pad-title1{
+        display: none;
+    }
+    .pad-title2{
+        display: none;
+    }
+    h1{
+        margin:0;
+        height:166px;
+    }
+    .phone-TOP{
+        margin:20px 0 0 13px;
+        display: flex;
+    }
+    .product1{
+        width:139px;
+        height:219px;
+        margin:15px 0 0 13px;
+    }
+    .img1{
+        width:113px;
+        height:140px;
+        padding:13px 0 0 13px;
+    }
+    .name1{
+        font-size: 15px;
+        margin:-5px 0 0 55px;
+    }
+    .NT1{
+        font-size: 15px;
+        margin:17px 0 0 12px;
+    }
+    .product2{
+        width:139px;
+        height:219px;
+        margin:15px 0 0 13px;
+    }
+    .img2{
+        width:113px;
+        height:140px;
+        padding:13px 0 0 13px;
+    }
+    .name2{
+        font-size: 15px;
+        margin:-5px 0 0 55px;
+    }
+    .NT2{
+        font-size: 15px;
+        margin:17px 0 0 12px;
+    }
+    .product5{
+        width:139px;
+        height:219px;
+        margin:20px 0 0 13px;
+    }
+    .img5{
+        width:113px;
+        height:140px;
+        padding:13px 0 0 13px;
+    }
+    .name5{
+        font-size: 15px;
+        margin:-5px 0 0 55px;
+    }
+    .NT5{
+        font-size: 15px;
+        margin:17px 0 0 12px;
+    }
+    .product6{
+        width:139px;
+        height:219px;
+        margin:20px 0 0 13px;
+    }
+    .img6{
+        width:113px;
+        height:140px;
+        padding:13px 0 0 13px;
+    }
+    .name6{
+        font-size: 15px;
+        margin:-5px 0 0 55px;
+    }
+    .NT6{
+        font-size: 15px;
+        margin:17px 0 0 12px;
+    }
+    .product9{
+        width:139px;
+        height:219px;
+        margin:20px 0 0 13px;
+    }
+    .img9{
+        width:113px;
+        height:140px;
+        padding:13px 0 0 13px;
+    }
+    .name9{
+        font-size: 15px;
+        margin:-5px 0 0 55px;
+    }
+    .NT9{
+        font-size: 15px;
+        margin:17px 0 0 12px;
+    }
+    .product10{
+        width:139px;
+        height:219px;
+        margin:20px 0 0 13px;
+    }
+    .img10{
+        width:113px;
+        height:140px;
+        padding:13px 0 0 13px;
+    }
+    .name10{
+        font-size: 15px;
+        margin:-5px 0 0 55px;
+    }
+    .NT10{
+        font-size: 15px;
+        margin:17px 0 0 12px;
+    }
+    .footer-img{
+        height:58px;
+    }
+    .information{
+        height:58px;
+    }
+    .fimg5{
+        display: flex;
+        width:26.38px;
+        height:21.58px;
+        margin:18.1px 0 0 42px;
+    }
+    .fimg1{
+        width:29.06px;
+        height:28.89px;
+        margin:14.6px 0 0 21.9px;
+    }
+    .fimg2{
+        width:29.16px;
+        height:29.15px;
+        margin:14.6px 0 0 21.4px;
+    }
+    .fimg3{
+        width:28.58px;
+        height:29.05px;
+        margin:13.6px 0 0 22.2px;
+    }
+    .fimg4{
+        width:36.21px;
+        height:29.41px;
+        margin:13.6px 0 0 21.9px;
+    }
+    .TOPbuttom{
+        width:16.88px;
+        height:16.88px;
+        margin:11px 0 7.1px 278.5px;
+    }
+    .TOP{
+        font-size: 11px;
+        margin:11px 0 0 0;
+    }
+}
